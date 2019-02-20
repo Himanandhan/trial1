@@ -1,2 +1,3 @@
 this is a.txt file
+this is changed version of a.txt file
  
